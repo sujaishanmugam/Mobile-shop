@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": "1",
+      " title": "New Apple iPhone 12 (128GB) - White",
+      "price": 50000,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-12-pro-family-hero?wid=940&hei=1112&fmt=jpeg&qlt=80&.v=1604021663000",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      " title": "New Apple iPhone 12 pro (128GB) - Gold",
+      "price": 58000,
+      "image": "https://media.croma.com/image/upload/f_auto,q_auto,d_Croma%20Assets:no-product-image.jpg,h_260,w_260/v1605202304/Croma%20Assets/Communication/Mobiles/Images/8952382717982.png",
+      "rating": 4
+    },
+    {
+        "id": "3",
+        " title": "New Apple iPhone SE (64GB) - White",
+        "price": 25000,
+        "image": "https://media.croma.com/image/upload/f_auto,q_auto,d_Croma%20Assets:no-product-image.jpg,h_350,w_350/v1605338373/Croma%20Assets/Communication/Mobiles/Images/8943053111326.png",
+        "rating": 1
+      },
+      {
+        "id": "4",
+        " title": "New Apple iPhone 11 (128GB) - Jet Black",
+        "price": 65000,
+        "image": "https://t.infibeam.com/img/othe/0441617/f7/50/iphone11b2.jpg.47e0aef750.989x250x250.jpg",
+        "rating": 5
+      }
+  ]
+}
