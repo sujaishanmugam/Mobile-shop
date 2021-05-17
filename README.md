@@ -1,3 +1,8 @@
+# Technology stack 
+
+Frontend - React, Meterial-Ui, React Context API
+Backend - Firebase-Auth
+
 # Deployed Link
 
 check this out for the live The mobile shop app (https://the-mobile-shop-5ed08.web.app)
@@ -5,6 +10,10 @@ check this out for the live The mobile shop app (https://the-mobile-shop-5ed08.w
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+This will go ahead and install all the  dependencies in package.json only then the app starts 
 
 ### `npm start`
 
