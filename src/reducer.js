@@ -1,7 +1,7 @@
 export const initialState = {
   basket: [],
   subTotal: [],
-  user: null,
+  user: "null",
 };
 
 // Selector

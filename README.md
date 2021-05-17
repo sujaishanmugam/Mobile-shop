@@ -1,6 +1,6 @@
 # Technology stack 
 
-Frontend - React, Meterial-Ui, React Context API
+Frontend - React, Meterial-Ui, React Context API.\
 Backend - Firebase-Auth
 
 # Deployed Link
